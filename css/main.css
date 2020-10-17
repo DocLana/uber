@@ -383,10 +383,12 @@ nav {
 }
 
 .auto_img {
+	width: 100%;
 	position: relative;
 	display: block;
 	margin: 56px auto 0 auto;
 	z-index: 2;
+	text-align: center;
 }
 
 .auto_text {
@@ -682,7 +684,7 @@ footer {
 	}
 
 	.menu .menu_link {
-		font-size: 10px;
+		font-size: 11px;
 	}
 
 	.img-logo {
